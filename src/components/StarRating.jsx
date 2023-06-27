@@ -1,6 +1,5 @@
 import { AiFillStar } from "react-icons/ai";
 import { useState } from "react";
-import React from "react";
 
 const StartRating = () => {
   const [rating, setRating] = useState(0);
